@@ -1,6 +1,6 @@
 # Permalinks
-permalink:        none
-relative_permalinks: true
+permalink:        pretty
+relative_permalinks: false
 
 # Setup
 title:            Key
