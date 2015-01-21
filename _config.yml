@@ -4,7 +4,7 @@ relative_permalinks: true
 
 # Setup
 title:            Key
-tagline:          Manejo de partidas
+tagline:          Creatividad digital
 url:              http://key.kim
 paginate:         1
 baseurl:          /
