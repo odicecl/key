@@ -1,19 +1,24 @@
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
 # Permalinks
 permalink:        pretty
-relative_permalinks: false
 
 # Setup
 title:            Key
-tagline:          Creatividad digital
+tagline:          'Kim'
+description:      'Creatividad Digital'
 url:              http://key.kim
-paginate:         1
-baseurl:          /
+
 author:
-  name:           Odice
+  name:           'Odice'
   url:            https://twitter.com/odice
-  email:          im@odice.me
+
+paginate:         5
 
 # Custom vars
-version:          1.0.0
+version:          2.0.0
+
 github:
-  repo:           https://key.kim
+  repo:           https://github.com/odice/key
