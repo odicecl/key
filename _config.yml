@@ -3,8 +3,8 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Poole
-tagline:          The Jekyll Butler
+title:            Key
+tagline:          Manejo de partidas
 url:              http://key.kim
 paginate:         1
 baseurl:          /
