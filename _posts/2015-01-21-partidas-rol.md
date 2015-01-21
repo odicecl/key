@@ -1,2 +1,2 @@
-#Partidas en preparación
+##Partidas en preparación
 [Crystaliz](Cristalyz)
